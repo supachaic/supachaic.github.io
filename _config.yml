@@ -1,1 +1,16 @@
-theme: jekyll-theme-slate
+# Site settings
+title: My Blog
+description: "My Blog on github"
+baseurl: ""
+url: "http://supachai.github.io"
+github_username:  suapchaic
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge

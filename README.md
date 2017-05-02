@@ -1,5 +1,2 @@
 # Readme
-
-```python
-test
-```
+My blog on github
