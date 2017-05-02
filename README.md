@@ -1,1 +1,2 @@
-# supachaic.github.io
+# How to build your deep learning machine
+
