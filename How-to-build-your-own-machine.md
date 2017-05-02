@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /How to Build your own Deep Learning Machine/
+permalink: /How-to-build-your-own-machine/
 ---
 
 ## The beginning
