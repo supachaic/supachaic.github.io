@@ -14,7 +14,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fdfdfd;
+  background-color: #e6e6e6;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
@@ -43,7 +43,7 @@ a:visited { color: #205caa; }
 
 .module-header {
   font-size: 24px;
-  color: #8C1515;
+  color: #1e2127;
   margin-top: 20px;
   margin-bottom: 5px;
 }
